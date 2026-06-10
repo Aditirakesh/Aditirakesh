@@ -26,7 +26,7 @@
   <g transform="translate(100, 90)">
     <!-- Subheading/School -->
     <text x="0" y="0" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" letter-spacing="2">
-      COMPUTER SCIENCE STUDENT @ IIIT
+      COMPUTER SCIENCE STUDENT @ IIIT ALLAHABAD
     </text>
 
     <!-- Main Title -->
@@ -36,26 +36,38 @@
 
     <!-- Key Fields -->
     <text x="0" y="96" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" opacity="0.9">
-      Systems Programming in C &amp; Front-End Web Development
+      Systems Programming, Software Engineering &amp; Web Development
     </text>
 
     <!-- Tech Badges (SVG Inline) -->
     <g transform="translate(0, 130)" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500">
       <!-- C -->
-      <rect x="0" y="0" width="56" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
-      <text x="28" y="17" fill="#58a6ff" text-anchor="middle">C</text>
+      <rect x="0" y="0" width="46" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="23" y="17" fill="#58a6ff" text-anchor="middle">C</text>
+
+      <!-- C++ -->
+      <rect x="54" y="0" width="60" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="84" y="17" fill="#3572a5" text-anchor="middle">C++</text>
+
+      <!-- Python -->
+      <rect x="122" y="0" width="82" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="163" y="17" fill="#3572a5" text-anchor="middle">Python</text>
+
+      <!-- SQL -->
+      <rect x="212" y="0" width="60" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="242" y="17" fill="#e38e00" text-anchor="middle">SQL</text>
 
       <!-- JavaScript -->
-      <rect x="66" y="0" width="112" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
-      <text x="122" y="17" fill="#d0b440" text-anchor="middle">JavaScript</text>
+      <rect x="280" y="0" width="110" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="335" y="17" fill="#d0b440" text-anchor="middle">JavaScript</text>
 
       <!-- HTML & CSS -->
-      <rect x="188" y="0" width="120" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
-      <text x="248" y="17" fill="#f78166" text-anchor="middle">HTML &amp; CSS</text>
+      <rect x="398" y="0" width="114" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="455" y="17" fill="#f78166" text-anchor="middle">HTML &amp; CSS</text>
 
       <!-- Git -->
-      <rect x="318" y="0" width="60" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
-      <text x="348" y="17" fill="#c9d1d9" text-anchor="middle">Git</text>
+      <rect x="520" y="0" width="56" height="26" rx="4" fill="#0f1423" stroke="#30364d" stroke-width="1" />
+      <text x="548" y="17" fill="#8b949e" text-anchor="middle">Git</text>
     </g>
   </g>
 </svg>

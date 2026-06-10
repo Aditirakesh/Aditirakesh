@@ -6,10 +6,10 @@
 
 ## About Me
 
-I am a Computer Science student at IIIT. I enjoy systems-level programming, web development, and exploring how software works under the hood.
+I am a Computer Science student at IIIT Allahabad. I enjoy systems-level programming, web development, and exploring how software works under the hood.
 
-- **Academics:** Studying Computer Science at IIIT.
-- **Interests:** Systems programming in C, responsive web interface design, and algorithms.
+- **Academics:** Studying Computer Science at IIIT Allahabad.
+- **Interests:** Systems programming, database management, and responsive web design.
 - **Projects:** Focused on building clean, practical applications for coursework and personal learning.
 
 ---
@@ -17,22 +17,24 @@ I am a Computer Science student at IIIT. I enjoy systems-level programming, web 
 ## Projects
 
 ### Semester 4
-* **Miles and Moments** ([View Repo](https://github.com/Aditirakesh/miles-and-moments))
-  A responsive travel blog and interactive city guide showcasing global travel destinations, itineraries, and packing lists. Built using custom HTML5 and CSS3.
 * **Spectral** ([View Repo](https://github.com/Aditirakesh/Spectral))
-  An interactive, visually-rich JavaScript web application.
+  A high-performance remote code execution engine and Docker-based process sandboxing platform.
 * **AquaWorld** ([View Repo](https://github.com/Aditirakesh/AquaWorld))
-  A systems-level exploration and simulation project developed in C.
+  A 3D interactive aquarium simulation and bubble-popping game built in C++ using OpenGL.
 
 ### Semester 3
 * **SkillSync** ([View Repo](https://github.com/Aditirakesh/SkillSync))
-  A collaborative skill-matching web application built with JavaScript.
+  A collaborative skill-matching web application designed to connect developers and facilitate peer learning.
+
+### Semester 2
+* **Miles and Moments** ([View Repo](https://github.com/Aditirakesh/miles-and-moments))
+  A responsive travel blog and interactive city guide showcasing global travel destinations, itineraries, and packing lists.
 
 ---
 
 ## Skills
 
-* **Languages:** C, JavaScript, HTML5, CSS3, SQL
+* **Languages:** C, C++, Python, SQL, JavaScript, HTML5, CSS3
 * **Tools & Environment:** Git, GitHub, Linux, VS Code
 
 ---
