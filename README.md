@@ -1,7 +1,7 @@
 # Aditi Rakesh
 
 <p align="center">
-  <img src="banner.svg" alt="Aditi Rakesh - Banner" width="100%">
+  <img src="banner.svg?v=2" alt="Aditi Rakesh - Banner" width="100%">
 </p>
 
 ## About Me
