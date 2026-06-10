@@ -6,9 +6,9 @@
 
 ## About Me
 
-I am a Computer Science student at IIIT Allahabad. I enjoy systems-level programming, web development, and exploring how software works under the hood.
+I am an Information Technology student at IIIT Allahabad. I enjoy systems-level programming, web development, and exploring how software works under the hood.
 
-- **Academics:** Studying Computer Science at IIIT Allahabad.
+- **Academics:** Studying Information Technology at IIIT Allahabad.
 - **Interests:** Systems programming, database management, and responsive web design.
 - **Projects:** Focused on building clean, practical applications for coursework and personal learning.
 
