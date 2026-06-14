@@ -10,7 +10,7 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 
 - **Academics:** Studying Information Technology at IIIT Allahabad.
 - **Interests:** Systems programming, database management, and responsive web design.
-- **Projects:** Focused on building clean, practical applications for coursework and personal learning.
+- **Current Focus:** Upgrading **[Miles and Moments](https://github.com/Aditirakesh/miles-and-moments)** from a static frontend project into a full-stack platform with a backend and user subscription system.
 
 ---
 
@@ -28,7 +28,7 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 
 ### Semester 2
 * **Miles and Moments** ([View Repo](https://github.com/Aditirakesh/miles-and-moments))
-  A responsive travel blog and interactive city guide showcasing global travel destinations, itineraries, and packing lists.
+  Originally built as a Semester 2 static frontend project; currently upgrading it to a full-stack platform with a backend and user subscription system.
 
 ---
 
