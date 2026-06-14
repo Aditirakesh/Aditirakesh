@@ -35,7 +35,7 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 ## Skills
 
 * **Languages:** C, C++, Python, SQL, JavaScript, HTML5, CSS3
-* **Tools & Environment:** Git, GitHub, Linux, VS Code
+* **Tools & Environment:** Git, GitHub, Docker, Linux, VS Code
 
 ---
 
