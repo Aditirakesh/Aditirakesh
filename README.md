@@ -16,6 +16,10 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 
 ## Projects
 
+### Featured Projects
+* **TradeMind AI** ([View Repo](https://github.com/Aditirakesh/TradeMind-AI))
+  A multi-agent Policy-Aware Agentic Reasoning System built with LangGraph and LangChain for DGFT trade compliance. Routes queries dynamically between PostgreSQL (for 20,000+ structured RoDTEP records) and three PGVector collections (for 200+ chapters of Import, Export, and FTP documents) using a CrossEncoder reranker for high-accuracy RAG.
+
 ### Semester 4
 * **Spectral** ([View Repo](https://github.com/Aditirakesh/Spectral))
   A high-performance remote code execution engine and Docker-based process sandboxing platform.
@@ -35,6 +39,7 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 ## Skills
 
 * **Languages:** C, C++, Python, SQL, JavaScript, HTML5, CSS3
+* **Frameworks & Databases:** LangGraph, LangChain, Streamlit, PostgreSQL, PGVector, Supabase
 * **Tools & Environment:** Git, GitHub, Docker, Linux, VS Code
 
 ---
