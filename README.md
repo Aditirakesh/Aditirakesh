@@ -10,7 +10,7 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 
 - **Academics:** Studying Information Technology at IIIT Allahabad.
 - **Interests:** Systems programming, database management, and responsive web design.
-- **Current Focus:** Upgrading **[Miles and Moments](https://github.com/Aditirakesh/miles-and-moments)** from a static frontend project into a full-stack platform with a backend and user subscription system.
+- **Current Focus:** Designing intelligent Agentic AI workflows, building scalable full-stack applications, and exploring low-level systems programming.
 
 ---
 
@@ -19,6 +19,8 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 ### Featured Projects
 * **TradeMind AI** ([View Repo](https://github.com/Aditirakesh/TradeMind-AI))
   A multi-agent Policy-Aware Agentic Reasoning System built with LangGraph and LangChain for DGFT trade compliance. Routes queries dynamically between PostgreSQL (for 20,000+ structured RoDTEP records) and three PGVector collections (for 200+ chapters of Import, Export, and FTP documents) using a CrossEncoder reranker for high-accuracy RAG.
+* **Miles & Moments** ([View Repo](https://github.com/Aditirakesh/miles-and-moments))
+  A premium, full-stack travel companion portal built with Node.js, Express, and Supabase (PostgreSQL). Features secure user authentication, role-based access control (RBAC), a real-time smart travel budget planner, an interactive personality quiz, and an administrative analytics dashboard.
 
 ### Semester 4
 * **Spectral** ([View Repo](https://github.com/Aditirakesh/Spectral))
@@ -32,14 +34,14 @@ I am an Information Technology student at IIIT Allahabad. I enjoy systems-level 
 
 ### Semester 2
 * **Miles and Moments** ([View Repo](https://github.com/Aditirakesh/miles-and-moments))
-  Originally built as a Semester 2 static frontend project; currently upgrading it to a full-stack platform with a backend and user subscription system.
+  Originally built as a Semester 2 static frontend project; successfully upgraded to a full-stack platform with a backend, database integration, and administrative controls.
 
 ---
 
 ## Skills
 
 * **Languages:** C, C++, Python, SQL, JavaScript, HTML5, CSS3
-* **Frameworks & Databases:** LangGraph, LangChain, Streamlit, PostgreSQL, PGVector, Supabase
+* **Frameworks & Databases:** LangGraph, LangChain, Streamlit, Node.js, Express.js, PostgreSQL, PGVector, Supabase
 * **Tools & Environment:** Git, GitHub, Docker, Linux, VS Code
 
 ---
